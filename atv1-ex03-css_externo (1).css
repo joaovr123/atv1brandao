@@ -1,0 +1,33 @@
+.cor1 {
+    background-color: #356eeb;width: 150px;
+height: 300px;
+}
+
+.cor2 {
+background-color: #b2cfc3;
+width: 200px;
+height: 200px;
+}
+
+.cor {
+color: rgb(22, 83, 42);
+background-color: rgb(22, 10, 185);
+font-size: 40px;
+font-family: times;
+font-weight: lighter;
+
+}
+
+.cor3 {
+width: 40%;
+height: 40vh;
+background-color: rgb(8, 7, 4);
+
+}
+
+.cor4 {
+width: 30vw;
+height: 30vh;
+background-color: rgb(173, 163, 221);
+
+}
